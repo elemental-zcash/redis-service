@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/elemental-zcash/redis-service/issues"
   },
-  "homepage": "https://github.com/elemental-zcash/redis-service#readme"
+  "homepage": "https://github.com/elemental-zcash/redis-service#readme",
+  "devDependencies": {
+    "nunjucks": "^3.2.4"
+  }
 }
